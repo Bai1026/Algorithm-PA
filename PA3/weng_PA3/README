@@ -1,0 +1,12 @@
+# b09901104 Algorithm PA3
+## HOW TO CIMPILE under b09901104_pa3:
+     
+    make
+	
+## HOW TO RUN:
+
+	./bin/cb <input_file_path> <output_file_path>
+	
+## For example,under b09901104_pa3
+:
+	./bin/cb inputs/public_case_1.in outputs/public_case_1.out

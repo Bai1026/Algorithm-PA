@@ -1,0 +1,15 @@
+# b09602017 Algorithm PA3
+## HOW TO COMPILE under b09602017_pa3:
+     
+    make
+	
+## HOW TO RUN:
+
+	./bin/cb <input_file_path> <output_file_path>
+	
+## For example,under b09602017_pa3
+:
+	./bin/cb inputs/public_case_1.in outputs/public_case_1.out
+
+## HOW TO CHECK THE SUBMISSION:
+bash ./b09602017_pa3/utilities/checkSubmitPA3.sh b09602017_pa3.tgz
